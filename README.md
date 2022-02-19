@@ -6,7 +6,7 @@ Build a custom WSL2 kernel with additional features.
 * UAS support
 * DVD drive support
 
-Tested with WSL2 Kernel 5.10.60.1 and Ubuntu 20.04
+Tested with WSL2 Kernel 5.10.60.1 and Ubuntu 20.04.
 
 # Usage
 
